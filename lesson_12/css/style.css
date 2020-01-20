@@ -1,0 +1,54 @@
+.header {
+    font-size: 20px;
+    line-height: 1.5;
+}
+.header span {
+    display: block;
+}
+.section {
+    background: white;
+    padding: 30px 0px;
+}
+.container, .col-lg-6 {
+  /* border: 2px solid red;*/
+}
+.form {
+    padding: 30px 20px;
+    border-radius: 10px;
+}
+.form:hover{
+    transition: 1s;
+    box-shadow: 0px 0px 50px grey;
+}
+.form input {
+    margin-bottom: 12px;
+}
+.form-header, .section-header {
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: 900;
+}
+.form-btn {
+    background: #2727d9;
+    margin: 12px auto;
+}
+.feature {
+    margin-top: 60px;
+}
+.feature img {
+    width: 100px;
+    height: 100px;
+}
+.feature p {
+    margin-top: 20px;
+}
+
+.shadow-box:hover{
+    box-shadow: 0px 0px 50px grey;
+    transition: 0.7s;
+    font-size: 18px;
+}
+
+.bootstrap_btn:hover{
+    transition: 1s;
+}
