@@ -1,0 +1,54 @@
+.header {
+  border-bottom: 2px solid red;
+}
+.row {
+    /*border: 2px solid red;*/
+    background: black;
+}
+.row .logo_img {
+    width: 175px;
+}
+
+.ul_menu li{
+    list-style: none;
+    margin-top: 5px;
+}
+.ul_menu li a{
+    padding: 5px;
+    text-decoration: none;
+}
+.ul_menu li a:hover{
+    background: white;
+    color: red
+}
+
+.row-maps {
+    padding: 20px;
+    margin-left: 250px;
+}
+.end-section {
+    border-top: 2px solid red ;
+}
+
+.wrapper p {
+  text-align: right;
+  margin-top: 175px;
+  margin-right: 300px;
+  color: white;
+  
+}
+
+.social_icons{
+  margin: 0px 0px 0px 378px;
+}
+
+.social_icons li{
+  list-style: none;
+  float: left;
+  margin: 10px;
+}
+
+.img1 {
+  padding-bottom: 25px;
+  width: 100%;
+}
